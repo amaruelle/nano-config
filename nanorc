@@ -88,3 +88,11 @@ include "~/.nano/xresources.nanorc"
 include "~/.nano/yaml.nanorc"
 include "~/.nano/yum.nanorc"
 include "~/.nano/zsh.nanorc"
+
+set autoindent
+set backup
+set softwrap
+set linenumbers
+set locking
+set mouse
+set nohelp
